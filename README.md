@@ -1,3 +1,8 @@
+Dynamic Programming
+
+This repo is a collection of various exercises that are related to dynamic programming and algorithms.
+This includes Leetcode exercises I've completed.
+
 Dynamic Programming Course exercises by FreeCodeCamp.org
 https://www.youtube.com/watch?v=oBt53YbR9Kk
 
@@ -7,7 +12,6 @@ General Dynamic Programming Strategies:
 - Recursion -> memoisation
 - Iteratively -> Tabulation
 - Pen to paper drawing your strategy first, not code!
-
 
 Memoization Recipe:
 - Visualise as tree
